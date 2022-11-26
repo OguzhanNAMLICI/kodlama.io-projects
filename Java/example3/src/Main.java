@@ -22,7 +22,6 @@ public class Main {
         }else{
             System.out.println("The third number greater than the other two numbers. Third Number: " + thirdNumber);
         }
-
-
+        
     }
 }
