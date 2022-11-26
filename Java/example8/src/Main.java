@@ -18,6 +18,12 @@ public class Main {
         for(int i = 0; i < arrays.length; i++){
             System.out.println((i+1)+ ". element: " + arrays[i]);
         }
+
+        System.out.println("\n\n");
+
+        for(int array: arrays){
+            System.out.println(array);
+        }
     }
 
 }
