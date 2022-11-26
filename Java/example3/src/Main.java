@@ -16,7 +16,7 @@ public class Main {
         }
 
 
-        
+
         if(firstNumber > secondNumber && firstNumber > thirdNumber){
             System.out.println("The first number greater than the other two numbers. First Number: " + firstNumber);
         }else if(secondNumber > firstNumber && secondNumber > thirdNumber){
