@@ -15,6 +15,8 @@ public class Main {
             System.out.println("The number is greater than 20. Your number is: " + number);
         }
 
+
+        
         if(firstNumber > secondNumber && firstNumber > thirdNumber){
             System.out.println("The first number greater than the other two numbers. First Number: " + firstNumber);
         }else if(secondNumber > firstNumber && secondNumber > thirdNumber){
